@@ -1,0 +1,3 @@
+﻿map,x,y,w,h,boxstyle,title,titlestyle,facilitateur,facilitateurstyle,email,emailstyle
+cmr.svg,200,150,200,40,fill:#E5E5E5; stroke:#4C7200; stroke-width:1.5;,Task Force Nexus HDP Extrême-Nord,font: bold 10px sans-serif; fill:#4D4D4D; ,OCHA & Plan,font: bold 10px sans-serif; fill:#4D4D4D; ,estelle.akonooundi@un.org,font: bold 10px sans-serif; fill:#6990DE;
+cmr.svg,375,500,200,50,fill:#E5E5E5; stroke:#98E500; stroke-width:1.5;,Task Force Nexus HDP Façade Est,font: bold 10px sans-serif; fill:#4D4D4D; ,HCR & JRS,font: bold 10px sans-serif; fill:#4D4D4D; ,manjo@unhcr.org,font: bold 10px sans-serif; fill:#6990DE;

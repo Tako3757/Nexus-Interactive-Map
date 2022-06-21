@@ -1,0 +1,122 @@
+
+.colour-1 {fill: #cccccc;}
+.colour0 {fill: #b9b9b9;}
+.colour1 {fill: #ffa4a9;}
+.colour2 {fill: #cc6674;}
+.colour3 {fill: #993341;}
+.colour4 {fill: #66000e;}
+.area-highlight2 {opacity: 0.7; cursor:pointer;}
+.area-highlight {opacity: 0.5; cursor:pointer;}
+
+.nxsportal {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	margin: 30px;
+}
+.nxsportalmap {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: #0057e3;
+}
+
+.nxsportalgrey {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: #CCCCCC;
+}
+
+.nxsportalinfo {
+	width: 80%;
+	height: 80%;
+	position: absolute;
+	top: 10%;
+	left: 10%;
+	background: #0057e3;
+}
+
+.overlay2 {
+z-index: 9;
+margin: 0px; opacity: 0.2;
+
+background: #CCCCCC;
+}
+
+.overlay {
+	z-index: 9;
+	margin: 0px; opacity: 0.7;
+	background: #009938;
+}
+
+.nxsportalinfopopup {
+	display: contents;
+	width: 80%;
+	height: 80%;
+    position: fixed;
+	background: #0057e3;
+    top: 20%;
+    left: 20%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: 1px solid black;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: 3% auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+/* Add Animation */
+@keyframes animatetop {
+  from {top: -300px; opacity: 0}
+  to {top: 0; opacity: 1}
+}
+
+.modal-header {
+	padding: 2px 16px;
+	background-color: #5cb85c;
+	color: white;
+}
+
+/* Modal Body */
+.modal-body {
+	overflow-y:auto;
+	padding: 2px 16px; 
+	height: 80%;
+}
+
+/* Modal Footer */
+.modal-footer {
+	padding: 2px 16px;
+	background-color: #5cb85c;
+	color: white;
+}

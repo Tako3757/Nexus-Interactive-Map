@@ -1,0 +1,10 @@
+﻿id,boxstyle,lgi_x,lgi_y,lgi_h,lgi_w,imges,textstyle,lgl_x,lgl_y,label
+n,none,,,,,,none,,,
+a,none,40,350,15,30,star.jpg,font: bold 10px sans-serif; fill:#4D4D4D; ,75,362,Task Force Nationale Nexus HDP
+g,fill:Yellow; stroke:black; stroke-width:1;cursor: pointer;,40,350,15,30,,font: bold 10px sans-serif; fill:#4D4D4D; ,75,362,Task Force Nexus HDP Extrême-Nord
+h,fill:#98E500; stroke:black; stroke-width:1;cursor: pointer;,40,350,15,30,,font: bold 10px sans-serif; fill:#4D4D4D; ,75,362,Task Force Nexus HDP Façade Est
+k,fill:Blue; stroke:black; stroke-width:1;cursor: pointer;,40,350,15,30,,font: bold 10px sans-serif; fill:#4D4D4D; ,75,362,Task Force pas encore opérationnelle
+i,fill:#f4a179; stroke:#cecece; stroke-width:0.5;cursor: pointer;,40,740,15,30,,font: bold 10px sans-serif; fill:#4D4D4D; ,75,750,Zone de Convergence priorisées en 2022
+j,fill:#f7deab; stroke:#cecece; stroke-width:0.5;cursor: pointer;,40,740,15,30,,font: bold 10px sans-serif; fill:#4D4D4D; ,75,750,Zones de Convergence séléctionnées
+l,fill:#f4a179; stroke:#cecece; stroke-width:0.5;cursor: pointer;,40,350,15,30,,font: bold 10px sans-serif; fill:#4D4D4D; ,75,362,Zone de Convergence priorisées en 2022
+m,fill:#f7deab; stroke:#cecece; stroke-width:0.5;cursor: pointer;,40,350,15,30,,font: bold 10px sans-serif; fill:#4D4D4D; ,75,362,Zones de Convergence séléctionnées
